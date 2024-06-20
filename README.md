@@ -4,6 +4,8 @@
 ### I'm frontend developer from *Saint Petersburg*. 
 
 ### 📝 About me
+ :sparkles: [My portfolio](https://daria-ilina-portfolio.glitch.me/) :sparkles:
+
 :cherry_blossom: I’m currently learning **React**, **Redux**, **TypeScript**
 
 :cherry_blossom: I have a passion for creating websites and web applications using **HTML5/CSS3**, **JavaScript**
